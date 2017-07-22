@@ -1,0 +1,13 @@
+# Same as test03, using the load command.
+java -ea ataxx.Main
+load test08.in
+@<===
+@<  r - - - - - -
+@<  r X - - - X -
+@<  - - X - X b -
+@<  - - X - X - -
+@<  - - X - X - -
+@<  - X - - - X -
+@<  b - - - - - r
+@<===
+quit

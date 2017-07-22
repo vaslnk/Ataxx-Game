@@ -1,0 +1,7 @@
+java -ea ataxx.Main
+block b7
+block c3
+block c6
+a7-b7
+a7-a6
+start @red...
